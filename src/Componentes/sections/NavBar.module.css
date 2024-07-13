@@ -1,0 +1,33 @@
+.navbar {
+    display: grid;
+    background-color: #0F1624 ;
+    grid-auto-flow: column;
+    position: sticky;
+    top: 0; 
+    width: 100%; 
+    z-index: 1000; 
+    border-bottom: 2px solid #fff;
+    height: 75px ;
+}
+    
+.navbar ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: end;
+}
+        
+.navbar li {
+    margin: 10px;
+}
+
+.navbar a{
+    color: aliceblue !important;
+    font-size: 20px;
+}
+
+.links ul li {
+    margin-left: 3vw;
+}
+
+
