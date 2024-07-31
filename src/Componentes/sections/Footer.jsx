@@ -7,7 +7,7 @@ function Footer() {
         <div className={styles.footer}>
             <div className={styles.contact}>
                 <h2>Meu contato:</h2>
-                <h3>(24) 99999999</h3>
+                <h3>(24) 992879639</h3>
             </div>
             <div>
                 <h2>Email:</h2>
