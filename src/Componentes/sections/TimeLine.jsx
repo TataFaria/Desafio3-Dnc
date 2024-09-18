@@ -37,7 +37,7 @@ function Timeline() {
                         </div>
                         <div className={styles.infoText}>
                             <p >Ao mergulhar no desenvolvimento fullstack, meu portfólio construído com React e Vite tornou-se um marco 
-                                significativo, demonstrando minhas habilidades em front-end e back-end.</p>
+                                significativo, demonstrando minhas habilidades em front-end.</p>
                         </div>
                         <div className={styles.infoText}>
                             <p >Cada projeto e desafio ao longo do curso marcou uma etapa importante em minha evolução como programador,

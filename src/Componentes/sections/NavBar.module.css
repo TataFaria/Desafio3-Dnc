@@ -1,6 +1,6 @@
 .navbar {
     display: grid;
-    background-color: #0F1624 ;
+    background-color: rgb(39, 1, 60) ;
     grid-auto-flow: column;
     position: sticky;
     top: 0; 

@@ -1,10 +1,10 @@
 .btn{
-    background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+    background: linear-gradient(270deg, #b9b4ba 0%, #969197 66.67%, #868488 100%);
     border: none;
     padding: 10px;
     border-radius: 83px;
     font-weight: bolder;
-    color: aliceblue;
+    color: black;
     margin-top: 45px;
     cursor: pointer;
     height: 40px;
